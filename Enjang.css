@@ -10,7 +10,7 @@ h1 {
 h2 {
   border: 2px solid gray;
   border-radius: 25px;
-  text-align:bcenter;
+  text-align: center;
   color: yellow;
   background-color: cyan;
 }
