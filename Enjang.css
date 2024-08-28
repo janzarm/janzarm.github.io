@@ -1,0 +1,9 @@
+h1 {
+  border: 2px solid blue;
+  border-radius: 25px;
+  border-style: outset;
+  text-align: center;
+  color: red;
+  background-color: cyan;
+  
+}
