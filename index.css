@@ -1,0 +1,49 @@
+* , html, body {
+  padding: 0;
+  margin: 0;
+  background-color: #299;
+}
+h1 {
+  margin: 5px;
+  border: 5px solid blue;
+  border-radius: 15px;
+  border-style: outset;
+  text-align: center;
+  color: red;
+  background-color: #669;
+  
+}
+.judul {
+  text-align: center;
+  align-items: center;
+  margin: 15px;
+  margin-left: 15px;
+  margin-right: 15;
+  font-size: 25px;
+  color: orange;
+  border: 5px solid blue;
+  border-radius: 15px;
+  border-style: outline;
+  background-color: #669;
+  font-family: Roboto;
+}
+.subjudul {
+  margin: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 15px;
+  border: 2px solid cyan;
+  border-radius: 15px;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  font-size: 15px;
+  font-family: Roboto;
+  background-color: lightblue;
+}
+p {
+  padding: 10px;
+  border: 2px solid cyan;
+  border-radius: 15px;
+  background-color: lightblue;
+}
