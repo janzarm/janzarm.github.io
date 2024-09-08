@@ -19,15 +19,15 @@ body {
 
 .worm-segment {
     position: absolute;
-    width: 20px;
-    height: 20px;
+    width: 35px;
+    height: 35px;
     background-color: cyan;
     border-radius: 50%;
 }
 
 .letter {
     position: absolute;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
 }
 
